@@ -7,3 +7,5 @@ This is to set the upstream we will now justn need to execute git push
 
 git remote add origin [link]
 Testing
+
+git branch -M to renamme branch
