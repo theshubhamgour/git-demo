@@ -12,3 +12,5 @@ git branch -M to renamme branch
 
 to create new branch
 git checkout -b "feature1"
+
+new on featue 1
