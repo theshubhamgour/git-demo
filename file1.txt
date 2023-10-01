@@ -9,3 +9,6 @@ git remote add origin [link]
 Testing
 
 git branch -M to renamme branch
+
+to create new branch
+git checkout -b "feature1"
